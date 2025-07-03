@@ -28,13 +28,13 @@ dir_images = "C:/Users/yourname/Downloads/Downloaded Images"
 ...
 ```
 
-3. Run the script:
+2. Run the script:
 
 ```bash
 python FileManagement.py
 ```
 
-4. Download or add a new file to the source directory, the new file and the previously existing ones will get sorted automatically. 
+3. Download or add a new file to the source directory, the new file and the previously existing ones will get sorted automatically. 
 
 ---
 
